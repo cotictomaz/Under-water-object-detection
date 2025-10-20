@@ -20,6 +20,12 @@ This project explores how modern deep learning detectors perform in this domain.
 
 ---
 
+## Dataset
+
+The [Aquarium Object Detection Dataset] (https://public.roboflow.com/object-detection/aquarium) is collected by Brad Dwyer(Roboflow team) from two aquariums in the United States: The Henry Doorly Zoo in Omaha (October 16, 2020) and the National Aquarium in Baltimore (November 14, 2020). The dataset consists of 638 images splitted into train, test and validation data.
+
+---
+
 ## 🧠 Models and Methods
 
 | Backbone           | Train mAP | Valid mAP | Test mAP |
